@@ -5,3 +5,4 @@ Serverless Content Management Service with Amazon Interactive Video Service
 
 The frontend source code for CMS app can be found [here](https://github.com/k2sebeom/IVS-Amplify-App)
 
+![CMS](src/cms.png)
